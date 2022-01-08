@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @thee3rdPlayer
+- 👋🏾 Hi, I’m @thee3rdPlayer
 - 👀 I’m interested in programming/ modding
-- 💞️ I’m looking to collaborate on programming/ modding proj.
+-  I’m looking to collaborate on programming/ modding proj.
 - 📫 How to reach me mukwenaisaac@gmail.com
 
 <!---
