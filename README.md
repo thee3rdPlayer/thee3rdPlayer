@@ -1,7 +1,7 @@
 - 👋🏾 Hi, I’m @thee3rdPlayer
-- 👀 I’m interested in programming/ modding
+- 👀 I’m interested in programming in general
 -  I’m looking to collaborate on programming/ modding proj.
-- 📫 How to reach me mukwenaisaac@gmail.com
+- 📫 How to reach me thee3rdplayer@gmail.com
 
 <!---
 thee3rdPlayer/thee3rdPlayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
