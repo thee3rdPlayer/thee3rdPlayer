@@ -1,6 +1,5 @@
 - 👋🏾 Hi, I’m @thee3rdPlayer
 - 👀 I’m interested in programming in general
--  I’m looking to collaborate on programming/ modding proj.
 - 📫 How to reach me thee3rdplayer@gmail.com
 
 <!---
